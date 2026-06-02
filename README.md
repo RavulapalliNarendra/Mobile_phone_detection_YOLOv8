@@ -84,7 +84,7 @@ This script loads an image from test_images/ and returns JSON output without req
 
 Running Flask API
 
-python app.py
+python api.py
 
 Endpoint:
 
